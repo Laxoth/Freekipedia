@@ -1,3 +1,5 @@
+# Strona główna
+
 ## Ludzie
 - [Kevin Carson](https://freekipedia.ga/kevin-carson.html)
 
