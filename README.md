@@ -1,6 +1,3 @@
-# Freekipedia
-Encyklopedia dla wszystkich wolnych ludzi 🐍
-
 ## Ludzie
 - [Kevin Carson](https://freekipedia.ga/kevin-carson.html)
 
